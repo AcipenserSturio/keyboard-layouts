@@ -1,0 +1,16 @@
+{
+"title":"Aci's Braille",
+"onScreen":{
+"main":[
+"[CO:1][XK:⠀][XK:⠁][XK:⠃][XK:⠉][XK:⠙][XK:⠑][XK:⠋][XK:⠛][XK:⠓][XK:⠊][XK:⠚][XK:⠈][XK:⠘][DEL]",
+"[CO:1][XK:⠄][XK:⠅][XK:⠇][XK:⠍][XK:⠝][XK:⠕][XK:⠏][XK:⠟][XK:⠗][XK:⠎][XK:⠞][XK:⠌][XK:⠜][DEL]",
+"[CO:1][XK:⠤][XK:⠥][XK:⠧][XK:⠭][XK:⠽][XK:⠵][XK:⠯][XK:⠿][XK:⠷][XK:⠮][XK:⠾][XK:⠬][XK:⠼][ENTER]",
+"[CO:1][XK:⠠][XK:⠡][XK:⠣][XK:⠩][XK:⠹][XK:⠱][XK:⠫][XK:⠻][XK:⠳][XK:⠪][XK:⠺][XK:⠨][XK:⠸][ENTER]",
+"[CO:1][SPACE][XK:⠂][XK:⠆][XK:⠒][XK:⠲][XK:⠢][XK:⠖][XK:⠶][XK:⠦][XK:⠔][XK:⠴][XK:⠐][XK:⠰][MC:[LANG:01]:ABC]"
+],
+
+"sym":[
+"no u"
+]
+}
+}

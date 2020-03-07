@@ -1,0 +1,32 @@
+{
+"title":"Aci's Greek",
+"onScreen":{
+"main":[
+"[CO:1][XK:1[U+0301][U+030B]¹₁][XK:2[U+0300][U+030F]²₂][XK:3[U+0304]³₃][XK:4[U+0308]⁴₄][XK:5[U+0303]⁵₅][XK:6[U+030C][U+0302]⁶₆][XK:7⁷₇[U+0311][U+0306]][XK:8⁸₈[U+0323][U+0307]][XK:9⁹₉[U+030A]][XK:0⁰₀[U+0328]][DEL]",
+"[CO:1][XK:[U+0314][U+0313]][XK:ς][XK:ε][XK:ρ][XK:τ][XK:υ][XK:θ][XK:ι][XK:ο][XK:π][DEL]",
+"[CO:1][XK:α][XK:σ][XK:δ][XK:φ][XK:γ][XK:η][XK:ξ][XK:κ][XK:λ][ENTER]",
+"[CO:1][SHIFT][XK:ζ][XK:χ][XK:ψ][XK:ω][XK:β][XK:ν][XK:μ][XK:!][XK:?[MC:¯\\_(ジ)_/¯]][SHIFT]",
+"[CO:1][MC:[LANG:symbols]:?123][XK:,/][MC:[LANG:en]:🌐][SPACE][][][][][TOOL][XK:.&%+-@:\";/(#,')][LANG:ip]"
+],
+
+"shifted":[
+"[CO:1][XK:1[U+0301][U+030B]¹₁][XK:2[U+0300][U+030F]²₂][XK:3[U+0304]³₃][XK:4[U+0308]⁴₄][XK:5[U+0303]⁵₅][XK:6[U+030C][U+0302]⁶₆][XK:7⁷₇[U+0311][U+0306]][XK:8⁸₈[U+0323][U+0307]][XK:9⁹₉[U+030A]][XK:0⁰₀[U+0328]][DEL]",
+"[CO:1][XK:[U+0314][U+0313]][XK:ς][XK:Ε][XK:Ρ][XK:Τ][XK:Υ][XK:Θ][XK:Ι][XK:Ο][XK:Π][DEL]",
+"[CO:1][XK:Α][XK:Σ][XK:Δ][XK:Φ][XK:Γ][XK:Η][XK:Ξ][XK:Κ][XK:Λ][ENTER]",
+"[CO:1][SHIFT][XK:Ζ][XK:Χ][XK:Ψ][XK:Ω][XK:Β][XK:Ν][XK:Μ][XK:!][XK:?[MC:¯\\_(ジ)_/¯]][SHIFT]",
+"[CO:1][MC:[LANG:symbols]:?123][XK:,/][MC:[LANG:en]:🌐][SPACE][][][][][TOOL][XK:.&%+-@:\";/(#,')][LANG:ip]"
+],
+
+"shiftedAuto":[
+"[CO:1][XK:1[U+0301][U+030B]¹₁][XK:2[U+0300][U+030F]²₂][XK:3[U+0304]³₃][XK:4[U+0308]⁴₄][XK:5[U+0303]⁵₅][XK:6[U+030C][U+0302]⁶₆][XK:7⁷₇[U+0311][U+0306]][XK:8⁸₈[U+0323][U+0307]][XK:9⁹₉[U+030A]][XK:0⁰₀[U+0328]][DEL]",
+"[CO:1][XK:[U+0314][U+0313]][XK:ς][XK:Ε][XK:Ρ][XK:Τ][XK:Υ][XK:Θ][XK:Ι][XK:Ο][XK:Π][DEL]",
+"[CO:1][XK:Α][XK:Σ][XK:Δ][XK:Φ][XK:Γ][XK:Η][XK:Ξ][XK:Κ][XK:Λ][ENTER]",
+"[CO:1][SHIFT][XK:Ζ][XK:Χ][XK:Ψ][XK:Ω][XK:Β][XK:Ν][XK:Μ][XK:!][XK:?[MC:¯\\_(ジ)_/¯]][SHIFT]",
+"[CO:1][MC:[LANG:symbols]:?123][XK:,/][MC:[LANG:en]:🌐][SPACE][][][][][TOOL][XK:.&%+-@:\";/(#,')][LANG:ip]"
+],
+
+"sym":[
+"no u"
+]
+}
+} 

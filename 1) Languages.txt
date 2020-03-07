@@ -1,0 +1,3 @@
+[LANGS][MC:[LANG:macros]:Macros][LAYOUTS]
+[MC:[LANG:symbols]:?123][MC:[LANG:el]:Greek][MC:[LANG:bra]:Braille]
+[MC:[LANG:ru]:Russian][MC:[LANG:en]:English][MC:[LANG:ip]:IPA]

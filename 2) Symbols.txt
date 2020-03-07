@@ -1,0 +1,16 @@
+{
+"title":"Aci's Symbols",
+"onScreen":{
+"main":[
+"[CO:1][XK:1¹₁½⅓¼⅛][XK:2²₂⅔][XK:3³₃⅜¾][XK:4⁴₄][XK:5⁵₅⅝][XK:6⁶₆][XK:7⁷₇⅞][XK:8⁸₈][XK:9⁹₉][XK:0⁰₀ⁿ∅][DEL]",
+"[CO:1][XK:∫∬∭⨌∮∯∰][XK:∩∧][XK:∪∨][XK:×∙⊗⊙][XK:∈∋⊂⊃][XK:=≠≈∞][XK:√∛∜][XK:<≤[LEFTBRACKET]][XK:>≥[RIGHTBRACKET]][XK:✓✗][DEL]",
+"[CO:1]@[XK:#№][XK:$€₽£¤]_[XK:&§][XK:-—_–·][XK:+∓⊕±][XK:(⌈⌊⟨{][XK:)⌉⌋⟩}][XK:/÷|][ENTER]",
+"[CO:1][XK:~`]\\[XK:%°‰][XK:*^∙∧∩⊙★†‡][XK:\"„“”«»][XK:'‚‘’‹›]:;[XK:!¡¬][XK:?‽¿][SHIFT]",
+"[CO:1][MC:[LANG:01]:ABC][XK:,/][MC:[LANG:01]:ABC][SPACE][][][][][TOOL][XK:.…][MC:[LANG:01]:ABC]"
+],
+
+"sym":[
+"no u"
+]
+}
+}

@@ -1,0 +1,32 @@
+{
+"title":"Aci's Latin",
+"onScreen":{
+"main":[
+"[CO:1][XK:1[U+0301][U+030B]¹₁][XK:2[U+0300][U+030F]²₂][XK:3[U+0304]³₃][XK:4[U+0308]⁴₄][XK:5[U+0303]⁵₅][XK:6[U+030C][U+0302]⁶₆][XK:7⁷₇[U+0311][U+0306]][XK:8⁸₈[U+0323][U+0307]][XK:9⁹₉[U+030A]][XK:0⁰₀[U+0328]][DEL]",
+"[CO:1][XK:q][XK:w][XK:eə][XK:r][XK:tťþ][XK:yĳ][XK:u][XK:iı][XK:oøœ][XK:p][DEL]",
+"[CO:1][XK:aæ][XK:sßſş][XK:dďđð][XK:f][XK:g][XK:h][XK:j][XK:k][XK:lľł][ENTER]",
+"[CO:1][SHIFT][XK:z][XK:x][XK:cç][XK:v][XK:b][XK:nŋ][XK:m][XK:!][XK:?[MC:¯\\_(ジ)_/¯]][SHIFT]",
+"[CO:1][MC:[LANG:symbols]:?123][XK:,/][MC:[LANG:ru]:🌐][SPACE][][][][][TOOL][XK:.&%+-@:\";/(#,')][LANG:ip]"
+],
+
+"shifted":[
+"[CO:1][XK:1[U+0301][U+030B]¹₁][XK:2[U+0300][U+030F]²₂][XK:3[U+0304]³₃][XK:4[U+0308]⁴₄][XK:5[U+0303]⁵₅][XK:6[U+030C][U+0302]⁶₆][XK:7⁷₇[U+0311][U+0306]][XK:8⁸₈[U+0323][U+0307]][XK:9⁹₉[U+030A]][XK:0⁰₀[U+0328]][DEL]",
+"[CO:1][XK:Q][XK:W][XK:EƏ][XK:R][XK:TŤÞ][XK:YĲ][XK:U][XK:Iİ][XK:OØŒ][XK:P][DEL]",
+"[CO:1][XK:AÆ][XK:SẞSŞ][XK:DĎĐÐ][XK:F][XK:G][XK:H][XK:J][XK:K][XK:LĽŁ][ENTER]",
+"[CO:1][SHIFT][XK:Z][XK:X][XK:CÇ][XK:V][XK:B][XK:NŊ][XK:M][XK:!][XK:?[MC:¯\\_(ジ)_/¯]][SHIFT]",
+"[CO:1][MC:[LANG:symbols]:?123][XK:,/][MC:[LANG:ru]:🌐][SPACE][][][][][TOOL][XK:.&%+-@:\";/(#,')][LANG:ip]"
+],
+
+"shiftedAuto":[
+"[CO:1][XK:1[U+0301][U+030B]¹₁][XK:2[U+0300][U+030F]²₂][XK:3[U+0304]³₃][XK:4[U+0308]⁴₄][XK:5[U+0303]⁵₅][XK:6[U+030C][U+0302]⁶₆][XK:7⁷₇[U+0311][U+0306]][XK:8⁸₈[U+0323][U+0307]][XK:9⁹₉[U+030A]][XK:0⁰₀[U+0328]][DEL]",
+"[CO:1][XK:Q][XK:W][XK:EƏ][XK:R][XK:TŤÞ][XK:YĲ][XK:U][XK:Iİ][XK:OØŒ][XK:P][DEL]",
+"[CO:1][XK:AÆ][XK:SẞSŞ][XK:DĎĐÐ][XK:F][XK:G][XK:H][XK:J][XK:K][XK:LĽŁ][ENTER]",
+"[CO:1][SHIFT][XK:Z][XK:X][XK:CÇ][XK:V][XK:B][XK:NŊ][XK:M][XK:!][XK:?[MC:¯\\_(ジ)_/¯]][SHIFT]",
+"[CO:1][MC:[LANG:symbols]:?123][XK:,/][MC:[LANG:ru]:🌐][SPACE][][][][][TOOL][XK:.&%+-@:\";/(#,')][LANG:ip]"
+],
+
+"sym":[
+"no u"
+]
+}
+}
